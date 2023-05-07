@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: rgb(111, 188, 111);
+}
+.map{
+    position: relative;
+    left: 300px;
+    top: 200px;
+}
